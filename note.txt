@@ -1,0 +1,46 @@
+Classes:
+
+Psudeo:
+
+FLUTTER!!!
+
+user~
+
+theater*
+    {
+        name
+        Location
+        NumberOfRooms
+    }
+
+class    Customer{
+ 
+    int userId;
+    String name;
+    Date dateOfBirth;
+    String mobNo;
+    String emailId;
+    int age;
+}
+
+    }
+
+Ticket
+    {
+    movie
+        Name;
+        duration;
+        Director;
+        cast;
+        desricption
+        genre* movie type as in action / romance / comedy
+        Rating
+        mpaa`   // Check User's age for correct mpaa 
+                // If not refuse user's entry
+    Price
+    duration
+    date/time
+    seatNo.
+    TicketID
+
+    }
